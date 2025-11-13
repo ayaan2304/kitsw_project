@@ -22,7 +22,7 @@ const Login = () => {
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const { data: branches, isLoading, error, isError } = useQuery({
+  const { data: branches, isLoading, isError } = useQuery({
     queryKey: ['branches'],
     queryFn: fetchBranches,
     retry: 3,

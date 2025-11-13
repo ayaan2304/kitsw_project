@@ -22,7 +22,7 @@ const Login = () => {
   });
   const [isSubmitting, setIsSubmitting] = useState(false);
 
-  const { data: branches, isLoading, isError } = useQuery({
+  const { data: branches, isLoading, isError, error, refetch } = useQuery({
     queryKey: ['branches'],
     queryFn: fetchBranches,
     retry: 3,
@@ -86,8 +86,25 @@ const Login = () => {
                 Branch
               </label>
               {isError && (
-                <div className="rounded-xl border border-red-500/30 bg-red-500/10 px-3 py-2 text-xs text-red-300">
-                  Failed to load branches. Please check if the server is running and try refreshing the page.
+                <div className="flex items-center justify-between gap-3 rounded-xl border border-red-500/30 bg-red-500/10 px-3 py-2 text-xs text-red-300">
+                  <div>
+                    <div>Failed to load branches. Please check if the server is running and try refreshing the page.</div>
+                    {error && (
+                      <div className="mt-1 text-xxs text-red-200">Error: {(error as Error).message}</div>
+                    )}
+                  </div>
+                  <div>
+                    <button
+                      type="button"
+                      onClick={() => {
+                        console.info('Retrying fetch branches...');
+                        refetch();
+                      }}
+                      className="rounded-md bg-red-600/80 px-3 py-1 text-xs font-semibold text-white hover:bg-red-600"
+                    >
+                      Retry
+                    </button>
+                  </div>
                 </div>
               )}
               <div className="relative">

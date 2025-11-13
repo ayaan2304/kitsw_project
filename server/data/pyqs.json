@@ -1,0 +1,1919 @@
+{
+  "CSE(AI&ML)": {
+    "1": {
+      "engineering-mathematics-i": [
+        {
+          "id": "engineering-mathematics-i-2024",
+          "title": "Engineering Mathematics-I PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/1/engineering-mathematics-i/engineering-mathematics-i-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "programming-for-problem-solving-using-c": [
+        {
+          "id": "programming-for-problem-solving-using-c-2024",
+          "title": "Programming for Problem Solving Using C PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/1/programming-for-problem-solving-using-c/programming-for-problem-solving-using-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-chemistry": [
+        {
+          "id": "engineering-chemistry-2024",
+          "title": "Engineering Chemistry PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/1/engineering-chemistry/engineering-chemistry-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-drawing": [
+        {
+          "id": "engineering-drawing-2024",
+          "title": "Engineering Drawing PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/1/engineering-drawing/engineering-drawing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-mechanics": [
+        {
+          "id": "engineering-mechanics-2024",
+          "title": "Engineering Mechanics PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/1/engineering-mechanics/engineering-mechanics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "environmental-studies": [
+        {
+          "id": "environmental-studies-2024",
+          "title": "Environmental Studies PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/1/environmental-studies/environmental-studies-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "2": {
+      "engineering-mathematics-ii": [
+        {
+          "id": "engineering-mathematics-ii-2024",
+          "title": "Engineering Mathematics-II PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/2/engineering-mathematics-ii/engineering-mathematics-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "data-structures-through-c": [
+        {
+          "id": "data-structures-through-c-2024",
+          "title": "Data Structures Through C PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/2/data-structures-through-c/data-structures-through-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-physics": [
+        {
+          "id": "engineering-physics-2024",
+          "title": "Engineering Physics PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/2/engineering-physics/engineering-physics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "english-for-communication": [
+        {
+          "id": "english-for-communication-2024",
+          "title": "English for Communication PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/2/english-for-communication/english-for-communication-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "basic-electrical-engineering": [
+        {
+          "id": "basic-electrical-engineering-2024",
+          "title": "Basic Electrical Engineering PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/2/basic-electrical-engineering/basic-electrical-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "3": {
+      "engineering-mathematics-iii": [
+        {
+          "id": "engineering-mathematics-iii-2024",
+          "title": "Engineering Mathematics-III PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/3/engineering-mathematics-iii/engineering-mathematics-iii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "object-oriented-programming-through-java": [
+        {
+          "id": "object-oriented-programming-through-java-2024",
+          "title": "Object Oriented Programming Through JAVA PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/3/object-oriented-programming-through-java/object-oriented-programming-through-java-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "operating-systems": [
+        {
+          "id": "operating-systems-2024",
+          "title": "Operating Systems PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/3/operating-systems/operating-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "computer-organisation-and-architecture": [
+        {
+          "id": "computer-organisation-and-architecture-2024",
+          "title": "Computer Organisation and Architecture PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/3/computer-organisation-and-architecture/computer-organisation-and-architecture-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "advanced-data-structures": [
+        {
+          "id": "advanced-data-structures-2024",
+          "title": "Advanced Data Structures PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/3/advanced-data-structures/advanced-data-structures-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "formal-languages-and-automata-theory": [
+        {
+          "id": "formal-languages-and-automata-theory-2024",
+          "title": "Formal Languages and Automata Theory PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/3/formal-languages-and-automata-theory/formal-languages-and-automata-theory-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "4": {
+      "artificial-intelligence": [
+        {
+          "id": "artificial-intelligence-2024",
+          "title": "Artificial Intelligence PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/4/artificial-intelligence/artificial-intelligence-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "database-management-systems": [
+        {
+          "id": "database-management-systems-2024",
+          "title": "Database Management Systems PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/4/database-management-systems/database-management-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "python-programming": [
+        {
+          "id": "python-programming-2024",
+          "title": "Python Programming PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/4/python-programming/python-programming-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "essence-of-indian-traditional-knowledge": [
+        {
+          "id": "essence-of-indian-traditional-knowledge-2024",
+          "title": "Essence of Indian Traditional Knowledge PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/4/essence-of-indian-traditional-knowledge/essence-of-indian-traditional-knowledge-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "5": {
+      "universal-human-values-ii": [
+        {
+          "id": "universal-human-values-ii-2024",
+          "title": "Universal Human Values-II PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/5/universal-human-values-ii/universal-human-values-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "internet-of-things": [
+        {
+          "id": "internet-of-things-2024",
+          "title": "Internet of Things PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/5/internet-of-things/internet-of-things-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "software-engineering": [
+        {
+          "id": "software-engineering-2024",
+          "title": "Software Engineering PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/5/software-engineering/software-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "compiler-design": [
+        {
+          "id": "compiler-design-2024",
+          "title": "Compiler Design PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/5/compiler-design/compiler-design-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "machine-learning": [
+        {
+          "id": "machine-learning-2024",
+          "title": "Machine Learning PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/5/machine-learning/machine-learning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "6": {
+      "quantitative-aptitude-and-logical-reasoning": [
+        {
+          "id": "quantitative-aptitude-and-logical-reasoning-2024",
+          "title": "Quantitative Aptitude and Logical Reasoning PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/6/quantitative-aptitude-and-logical-reasoning/quantitative-aptitude-and-logical-reasoning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "management-economics-and-accountancy": [
+        {
+          "id": "management-economics-and-accountancy-2024",
+          "title": "Management, Economics and Accountancy PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/6/management-economics-and-accountancy/management-economics-and-accountancy-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "design-and-analysis-of-algorithms": [
+        {
+          "id": "design-and-analysis-of-algorithms-2024",
+          "title": "Design and Analysis of Algorithms PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/6/design-and-analysis-of-algorithms/design-and-analysis-of-algorithms-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "deep-learning": [
+        {
+          "id": "deep-learning-2024",
+          "title": "Deep Learning PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/6/deep-learning/deep-learning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "computer-vision-and-image-processing": [
+        {
+          "id": "computer-vision-and-image-processing-2024",
+          "title": "Computer Vision and Image Processing PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/6/computer-vision-and-image-processing/computer-vision-and-image-processing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "7": {
+      "cloud-computing": [
+        {
+          "id": "cloud-computing-2024",
+          "title": "Cloud Computing PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/7/cloud-computing/cloud-computing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "8": {
+      "capstone-project": [
+        {
+          "id": "capstone-project-2024",
+          "title": "Capstone Project PYQ 2024",
+          "file": "/pdfs/cse-ai-and-ml/8/capstone-project/capstone-project-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    }
+  },
+  "CSN": {
+    "1": {
+      "engineering-mathematics-i": [
+        {
+          "id": "engineering-mathematics-i-2024",
+          "title": "Engineering Mathematics-I PYQ 2024",
+          "file": "/pdfs/csn/1/engineering-mathematics-i/engineering-mathematics-i-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "programming-for-problem-solving-using-c": [
+        {
+          "id": "programming-for-problem-solving-using-c-2024",
+          "title": "Programming for Problem Solving Using C PYQ 2024",
+          "file": "/pdfs/csn/1/programming-for-problem-solving-using-c/programming-for-problem-solving-using-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-physics": [
+        {
+          "id": "engineering-physics-2024",
+          "title": "Engineering Physics PYQ 2024",
+          "file": "/pdfs/csn/1/engineering-physics/engineering-physics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "english-for-communication": [
+        {
+          "id": "english-for-communication-2024",
+          "title": "English for Communication PYQ 2024",
+          "file": "/pdfs/csn/1/english-for-communication/english-for-communication-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "basic-electrical-engineering": [
+        {
+          "id": "basic-electrical-engineering-2024",
+          "title": "Basic Electrical Engineering PYQ 2024",
+          "file": "/pdfs/csn/1/basic-electrical-engineering/basic-electrical-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "2": {
+      "engineering-mathematics-ii": [
+        {
+          "id": "engineering-mathematics-ii-2024",
+          "title": "Engineering Mathematics-II PYQ 2024",
+          "file": "/pdfs/csn/2/engineering-mathematics-ii/engineering-mathematics-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "data-structures-through-c": [
+        {
+          "id": "data-structures-through-c-2024",
+          "title": "Data Structures Through C PYQ 2024",
+          "file": "/pdfs/csn/2/data-structures-through-c/data-structures-through-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-chemistry": [
+        {
+          "id": "engineering-chemistry-2024",
+          "title": "Engineering Chemistry PYQ 2024",
+          "file": "/pdfs/csn/2/engineering-chemistry/engineering-chemistry-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-drawing": [
+        {
+          "id": "engineering-drawing-2024",
+          "title": "Engineering Drawing PYQ 2024",
+          "file": "/pdfs/csn/2/engineering-drawing/engineering-drawing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-mechanics": [
+        {
+          "id": "engineering-mechanics-2024",
+          "title": "Engineering Mechanics PYQ 2024",
+          "file": "/pdfs/csn/2/engineering-mechanics/engineering-mechanics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "environmental-studies": [
+        {
+          "id": "environmental-studies-2024",
+          "title": "Environmental Studies PYQ 2024",
+          "file": "/pdfs/csn/2/environmental-studies/environmental-studies-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "3": {
+      "engineering-mathematics-iii": [
+        {
+          "id": "engineering-mathematics-iii-2024",
+          "title": "Engineering Mathematics-III PYQ 2024",
+          "file": "/pdfs/csn/3/engineering-mathematics-iii/engineering-mathematics-iii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "object-oriented-programming-through-java": [
+        {
+          "id": "object-oriented-programming-through-java-2024",
+          "title": "Object Oriented Programming Through JAVA PYQ 2024",
+          "file": "/pdfs/csn/3/object-oriented-programming-through-java/object-oriented-programming-through-java-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "operating-systems": [
+        {
+          "id": "operating-systems-2024",
+          "title": "Operating Systems PYQ 2024",
+          "file": "/pdfs/csn/3/operating-systems/operating-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "computer-organisation-and-architecture": [
+        {
+          "id": "computer-organisation-and-architecture-2024",
+          "title": "Computer Organisation and Architecture PYQ 2024",
+          "file": "/pdfs/csn/3/computer-organisation-and-architecture/computer-organisation-and-architecture-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "advanced-data-structures": [
+        {
+          "id": "advanced-data-structures-2024",
+          "title": "Advanced Data Structures PYQ 2024",
+          "file": "/pdfs/csn/3/advanced-data-structures/advanced-data-structures-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "digital-electronics": [
+        {
+          "id": "digital-electronics-2024",
+          "title": "Digital Electronics PYQ 2024",
+          "file": "/pdfs/csn/3/digital-electronics/digital-electronics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "essence-of-indian-traditional-knowledge": [
+        {
+          "id": "essence-of-indian-traditional-knowledge-2024",
+          "title": "Essence of Indian Traditional Knowledge PYQ 2024",
+          "file": "/pdfs/csn/3/essence-of-indian-traditional-knowledge/essence-of-indian-traditional-knowledge-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "4": {
+      "theory-of-computation": [
+        {
+          "id": "theory-of-computation-2024",
+          "title": "Theory of Computation PYQ 2024",
+          "file": "/pdfs/csn/4/theory-of-computation/theory-of-computation-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "database-management-systems": [
+        {
+          "id": "database-management-systems-2024",
+          "title": "Database Management Systems PYQ 2024",
+          "file": "/pdfs/csn/4/database-management-systems/database-management-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "computer-networks": [
+        {
+          "id": "computer-networks-2024",
+          "title": "Computer Networks PYQ 2024",
+          "file": "/pdfs/csn/4/computer-networks/computer-networks-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "5": {
+      "quantitative-aptitude-and-logical-reasoning": [
+        {
+          "id": "quantitative-aptitude-and-logical-reasoning-2024",
+          "title": "Quantitative Aptitude and Logical Reasoning PYQ 2024",
+          "file": "/pdfs/csn/5/quantitative-aptitude-and-logical-reasoning/quantitative-aptitude-and-logical-reasoning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "advanced-computer-networks": [
+        {
+          "id": "advanced-computer-networks-2024",
+          "title": "Advanced Computer Networks PYQ 2024",
+          "file": "/pdfs/csn/5/advanced-computer-networks/advanced-computer-networks-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "internet-of-things": [
+        {
+          "id": "internet-of-things-2024",
+          "title": "Internet of Things PYQ 2024",
+          "file": "/pdfs/csn/5/internet-of-things/internet-of-things-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "compiler-design": [
+        {
+          "id": "compiler-design-2024",
+          "title": "Compiler Design PYQ 2024",
+          "file": "/pdfs/csn/5/compiler-design/compiler-design-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "machine-learning": [
+        {
+          "id": "machine-learning-2024",
+          "title": "Machine Learning PYQ 2024",
+          "file": "/pdfs/csn/5/machine-learning/machine-learning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "6": {
+      "universal-human-values-ii": [
+        {
+          "id": "universal-human-values-ii-2024",
+          "title": "Universal Human Values-II PYQ 2024",
+          "file": "/pdfs/csn/6/universal-human-values-ii/universal-human-values-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "software-engineering": [
+        {
+          "id": "software-engineering-2024",
+          "title": "Software Engineering PYQ 2024",
+          "file": "/pdfs/csn/6/software-engineering/software-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "cloud-computing": [
+        {
+          "id": "cloud-computing-2024",
+          "title": "Cloud Computing PYQ 2024",
+          "file": "/pdfs/csn/6/cloud-computing/cloud-computing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "cryptography-and-network-security": [
+        {
+          "id": "cryptography-and-network-security-2024",
+          "title": "Cryptography and Network Security PYQ 2024",
+          "file": "/pdfs/csn/6/cryptography-and-network-security/cryptography-and-network-security-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "7": {
+      "management-economics-and-accountancy": [
+        {
+          "id": "management-economics-and-accountancy-2024",
+          "title": "Management Economics and Accountancy PYQ 2024",
+          "file": "/pdfs/csn/7/management-economics-and-accountancy/management-economics-and-accountancy-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "design-and-analysis-of-algorithms": [
+        {
+          "id": "design-and-analysis-of-algorithms-2024",
+          "title": "Design and Analysis of Algorithms PYQ 2024",
+          "file": "/pdfs/csn/7/design-and-analysis-of-algorithms/design-and-analysis-of-algorithms-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "8": {
+      "capstone-project": [
+        {
+          "id": "capstone-project-2024",
+          "title": "Capstone Project PYQ 2024",
+          "file": "/pdfs/csn/8/capstone-project/capstone-project-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    }
+  },
+  "CSE": {
+    "1": {
+      "engineering-mathematics-i": [
+        {
+          "id": "engineering-mathematics-i-2024",
+          "title": "Engineering Mathematics-I PYQ 2024",
+          "file": "/pdfs/cse/1/engineering-mathematics-i/engineering-mathematics-i-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "programming-for-problem-solving-using-c": [
+        {
+          "id": "programming-for-problem-solving-using-c-2024",
+          "title": "Programming for Problem Solving Using C PYQ 2024",
+          "file": "/pdfs/cse/1/programming-for-problem-solving-using-c/programming-for-problem-solving-using-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-physics": [
+        {
+          "id": "engineering-physics-2024",
+          "title": "Engineering Physics PYQ 2024",
+          "file": "/pdfs/cse/1/engineering-physics/engineering-physics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "english-for-communication": [
+        {
+          "id": "english-for-communication-2024",
+          "title": "English for Communication PYQ 2024",
+          "file": "/pdfs/cse/1/english-for-communication/english-for-communication-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "basic-electrical-engineering": [
+        {
+          "id": "basic-electrical-engineering-2024",
+          "title": "Basic Electrical Engineering PYQ 2024",
+          "file": "/pdfs/cse/1/basic-electrical-engineering/basic-electrical-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "2": {
+      "engineering-mathematics-ii": [
+        {
+          "id": "engineering-mathematics-ii-2024",
+          "title": "Engineering Mathematics-II PYQ 2024",
+          "file": "/pdfs/cse/2/engineering-mathematics-ii/engineering-mathematics-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "data-structures-through-c": [
+        {
+          "id": "data-structures-through-c-2024",
+          "title": "Data Structures Through C PYQ 2024",
+          "file": "/pdfs/cse/2/data-structures-through-c/data-structures-through-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-chemistry": [
+        {
+          "id": "engineering-chemistry-2024",
+          "title": "Engineering Chemistry PYQ 2024",
+          "file": "/pdfs/cse/2/engineering-chemistry/engineering-chemistry-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-drawing": [
+        {
+          "id": "engineering-drawing-2024",
+          "title": "Engineering Drawing PYQ 2024",
+          "file": "/pdfs/cse/2/engineering-drawing/engineering-drawing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-mechanics": [
+        {
+          "id": "engineering-mechanics-2024",
+          "title": "Engineering Mechanics PYQ 2024",
+          "file": "/pdfs/cse/2/engineering-mechanics/engineering-mechanics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "environmental-studies": [
+        {
+          "id": "environmental-studies-2024",
+          "title": "Environmental Studies PYQ 2024",
+          "file": "/pdfs/cse/2/environmental-studies/environmental-studies-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "3": {
+      "engineering-mathematics-iii": [
+        {
+          "id": "engineering-mathematics-iii-2024",
+          "title": "Engineering Mathematics-III PYQ 2024",
+          "file": "/pdfs/cse/3/engineering-mathematics-iii/engineering-mathematics-iii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "object-oriented-programming-through-java": [
+        {
+          "id": "object-oriented-programming-through-java-2024",
+          "title": "Object Oriented Programming Through JAVA PYQ 2024",
+          "file": "/pdfs/cse/3/object-oriented-programming-through-java/object-oriented-programming-through-java-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "discrete-mathematics": [
+        {
+          "id": "discrete-mathematics-2024",
+          "title": "Discrete Mathematics PYQ 2024",
+          "file": "/pdfs/cse/3/discrete-mathematics/discrete-mathematics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "computer-organisation-and-architecture": [
+        {
+          "id": "computer-organisation-and-architecture-2024",
+          "title": "Computer Organisation and Architecture PYQ 2024",
+          "file": "/pdfs/cse/3/computer-organisation-and-architecture/computer-organisation-and-architecture-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "advanced-data-structures": [
+        {
+          "id": "advanced-data-structures-2024",
+          "title": "Advanced Data Structures PYQ 2024",
+          "file": "/pdfs/cse/3/advanced-data-structures/advanced-data-structures-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "digital-electronics": [
+        {
+          "id": "digital-electronics-2024",
+          "title": "Digital Electronics PYQ 2024",
+          "file": "/pdfs/cse/3/digital-electronics/digital-electronics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "essence-of-indian-traditional-knowledge": [
+        {
+          "id": "essence-of-indian-traditional-knowledge-2024",
+          "title": "Essence of Indian Traditional Knowledge PYQ 2024",
+          "file": "/pdfs/cse/3/essence-of-indian-traditional-knowledge/essence-of-indian-traditional-knowledge-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "4": {
+      "theory-of-computation": [
+        {
+          "id": "theory-of-computation-2024",
+          "title": "Theory of Computation PYQ 2024",
+          "file": "/pdfs/cse/4/theory-of-computation/theory-of-computation-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "database-management-systems": [
+        {
+          "id": "database-management-systems-2024",
+          "title": "Database Management Systems PYQ 2024",
+          "file": "/pdfs/cse/4/database-management-systems/database-management-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "operating-system": [
+        {
+          "id": "operating-system-2024",
+          "title": "Operating System PYQ 2024",
+          "file": "/pdfs/cse/4/operating-system/operating-system-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "5": {
+      "quantitative-aptitude-and-logical-reasoning": [
+        {
+          "id": "quantitative-aptitude-and-logical-reasoning-2024",
+          "title": "Quantitative Aptitude and Logical Reasoning PYQ 2024",
+          "file": "/pdfs/cse/5/quantitative-aptitude-and-logical-reasoning/quantitative-aptitude-and-logical-reasoning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "computer-networks": [
+        {
+          "id": "computer-networks-2024",
+          "title": "Computer Networks PYQ 2024",
+          "file": "/pdfs/cse/5/computer-networks/computer-networks-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "software-engineering": [
+        {
+          "id": "software-engineering-2024",
+          "title": "Software Engineering PYQ 2024",
+          "file": "/pdfs/cse/5/software-engineering/software-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "compiler-design": [
+        {
+          "id": "compiler-design-2024",
+          "title": "Compiler Design PYQ 2024",
+          "file": "/pdfs/cse/5/compiler-design/compiler-design-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "python-programming": [
+        {
+          "id": "python-programming-2024",
+          "title": "Python Programming PYQ 2024",
+          "file": "/pdfs/cse/5/python-programming/python-programming-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "6": {
+      "universal-human-values-ii": [
+        {
+          "id": "universal-human-values-ii-2024",
+          "title": "Universal Human Values-II PYQ 2024",
+          "file": "/pdfs/cse/6/universal-human-values-ii/universal-human-values-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "design-and-analysis-of-algorithms": [
+        {
+          "id": "design-and-analysis-of-algorithms-2024",
+          "title": "Design and Analysis of Algorithms PYQ 2024",
+          "file": "/pdfs/cse/6/design-and-analysis-of-algorithms/design-and-analysis-of-algorithms-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "data-warehousing-and-data-mining": [
+        {
+          "id": "data-warehousing-and-data-mining-2024",
+          "title": "Data Warehousing and Data Mining PYQ 2024",
+          "file": "/pdfs/cse/6/data-warehousing-and-data-mining/data-warehousing-and-data-mining-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "internet-of-things": [
+        {
+          "id": "internet-of-things-2024",
+          "title": "Internet of Things PYQ 2024",
+          "file": "/pdfs/cse/6/internet-of-things/internet-of-things-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "7": {
+      "management-economics-and-accountancy": [
+        {
+          "id": "management-economics-and-accountancy-2024",
+          "title": "Management Economics and Accountancy PYQ 2024",
+          "file": "/pdfs/cse/7/management-economics-and-accountancy/management-economics-and-accountancy-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "cloud-computing": [
+        {
+          "id": "cloud-computing-2024",
+          "title": "Cloud Computing PYQ 2024",
+          "file": "/pdfs/cse/7/cloud-computing/cloud-computing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "8": {
+      "capstone-project": [
+        {
+          "id": "capstone-project-2024",
+          "title": "Capstone Project PYQ 2024",
+          "file": "/pdfs/cse/8/capstone-project/capstone-project-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    }
+  },
+  "CSE(DS)": {
+    "1": {
+      "engineering-mathematics-i": [
+        {
+          "id": "engineering-mathematics-i-2024",
+          "title": "Engineering Mathematics-I PYQ 2024",
+          "file": "/pdfs/cse-ds/1/engineering-mathematics-i/engineering-mathematics-i-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "programming-for-problem-solving-using-c": [
+        {
+          "id": "programming-for-problem-solving-using-c-2024",
+          "title": "Programming for Problem Solving Using C PYQ 2024",
+          "file": "/pdfs/cse-ds/1/programming-for-problem-solving-using-c/programming-for-problem-solving-using-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-chemistry": [
+        {
+          "id": "engineering-chemistry-2024",
+          "title": "Engineering Chemistry PYQ 2024",
+          "file": "/pdfs/cse-ds/1/engineering-chemistry/engineering-chemistry-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-drawing": [
+        {
+          "id": "engineering-drawing-2024",
+          "title": "Engineering Drawing PYQ 2024",
+          "file": "/pdfs/cse-ds/1/engineering-drawing/engineering-drawing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-mechanics": [
+        {
+          "id": "engineering-mechanics-2024",
+          "title": "Engineering Mechanics PYQ 2024",
+          "file": "/pdfs/cse-ds/1/engineering-mechanics/engineering-mechanics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "environmental-studies": [
+        {
+          "id": "environmental-studies-2024",
+          "title": "Environmental Studies PYQ 2024",
+          "file": "/pdfs/cse-ds/1/environmental-studies/environmental-studies-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "2": {
+      "engineering-mathematics-ii": [
+        {
+          "id": "engineering-mathematics-ii-2024",
+          "title": "Engineering Mathematics-II PYQ 2024",
+          "file": "/pdfs/cse-ds/2/engineering-mathematics-ii/engineering-mathematics-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "data-structures-through-c": [
+        {
+          "id": "data-structures-through-c-2024",
+          "title": "Data Structures Through C PYQ 2024",
+          "file": "/pdfs/cse-ds/2/data-structures-through-c/data-structures-through-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-physics": [
+        {
+          "id": "engineering-physics-2024",
+          "title": "Engineering Physics PYQ 2024",
+          "file": "/pdfs/cse-ds/2/engineering-physics/engineering-physics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "english-for-communication": [
+        {
+          "id": "english-for-communication-2024",
+          "title": "English for Communication PYQ 2024",
+          "file": "/pdfs/cse-ds/2/english-for-communication/english-for-communication-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "basic-electrical-engineering": [
+        {
+          "id": "basic-electrical-engineering-2024",
+          "title": "Basic Electrical Engineering PYQ 2024",
+          "file": "/pdfs/cse-ds/2/basic-electrical-engineering/basic-electrical-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "3": {
+      "engineering-mathematics-iii": [
+        {
+          "id": "engineering-mathematics-iii-2024",
+          "title": "Engineering Mathematics-III PYQ 2024",
+          "file": "/pdfs/cse-ds/3/engineering-mathematics-iii/engineering-mathematics-iii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "object-oriented-programming-through-java": [
+        {
+          "id": "object-oriented-programming-through-java-2024",
+          "title": "Object Oriented Programming Through JAVA PYQ 2024",
+          "file": "/pdfs/cse-ds/3/object-oriented-programming-through-java/object-oriented-programming-through-java-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "operating-systems": [
+        {
+          "id": "operating-systems-2024",
+          "title": "Operating Systems PYQ 2024",
+          "file": "/pdfs/cse-ds/3/operating-systems/operating-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "computer-organisation-and-architecture": [
+        {
+          "id": "computer-organisation-and-architecture-2024",
+          "title": "Computer Organisation and Architecture PYQ 2024",
+          "file": "/pdfs/cse-ds/3/computer-organisation-and-architecture/computer-organisation-and-architecture-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "advanced-data-structures": [
+        {
+          "id": "advanced-data-structures-2024",
+          "title": "Advanced Data Structures PYQ 2024",
+          "file": "/pdfs/cse-ds/3/advanced-data-structures/advanced-data-structures-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "formal-languages-and-automata-theory": [
+        {
+          "id": "formal-languages-and-automata-theory-2024",
+          "title": "Formal Languages and Automata Theory PYQ 2024",
+          "file": "/pdfs/cse-ds/3/formal-languages-and-automata-theory/formal-languages-and-automata-theory-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "4": {
+      "artificial-intelligence": [
+        {
+          "id": "artificial-intelligence-2024",
+          "title": "Artificial Intelligence PYQ 2024",
+          "file": "/pdfs/cse-ds/4/artificial-intelligence/artificial-intelligence-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "database-management-systems": [
+        {
+          "id": "database-management-systems-2024",
+          "title": "Database Management Systems PYQ 2024",
+          "file": "/pdfs/cse-ds/4/database-management-systems/database-management-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "python-programming": [
+        {
+          "id": "python-programming-2024",
+          "title": "Python Programming PYQ 2024",
+          "file": "/pdfs/cse-ds/4/python-programming/python-programming-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "essence-of-indian-traditional-knowledge": [
+        {
+          "id": "essence-of-indian-traditional-knowledge-2024",
+          "title": "Essence of Indian Traditional Knowledge PYQ 2024",
+          "file": "/pdfs/cse-ds/4/essence-of-indian-traditional-knowledge/essence-of-indian-traditional-knowledge-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "5": {
+      "universal-human-values-ii": [
+        {
+          "id": "universal-human-values-ii-2024",
+          "title": "Universal Human Values-II PYQ 2024",
+          "file": "/pdfs/cse-ds/5/universal-human-values-ii/universal-human-values-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "design-and-analysis-algorithms": [
+        {
+          "id": "design-and-analysis-algorithms-2024",
+          "title": "Design and Analysis Algorithms PYQ 2024",
+          "file": "/pdfs/cse-ds/5/design-and-analysis-algorithms/design-and-analysis-algorithms-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "software-engineering": [
+        {
+          "id": "software-engineering-2024",
+          "title": "Software Engineering PYQ 2024",
+          "file": "/pdfs/cse-ds/5/software-engineering/software-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "compiler-design": [
+        {
+          "id": "compiler-design-2024",
+          "title": "Compiler Design PYQ 2024",
+          "file": "/pdfs/cse-ds/5/compiler-design/compiler-design-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "data-mining-and-data-warehousing": [
+        {
+          "id": "data-mining-and-data-warehousing-2024",
+          "title": "Data Mining and Data Warehousing PYQ 2024",
+          "file": "/pdfs/cse-ds/5/data-mining-and-data-warehousing/data-mining-and-data-warehousing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "6": {
+      "quantitative-aptitude-and-logical-reasoning": [
+        {
+          "id": "quantitative-aptitude-and-logical-reasoning-2024",
+          "title": "Quantitative Aptitude and Logical Reasoning PYQ 2024",
+          "file": "/pdfs/cse-ds/6/quantitative-aptitude-and-logical-reasoning/quantitative-aptitude-and-logical-reasoning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "management-economics-and-accountancy": [
+        {
+          "id": "management-economics-and-accountancy-2024",
+          "title": "Management Economics and Accountancy PYQ 2024",
+          "file": "/pdfs/cse-ds/6/management-economics-and-accountancy/management-economics-and-accountancy-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "big-data-analytics": [
+        {
+          "id": "big-data-analytics-2024",
+          "title": "Big Data Analytics PYQ 2024",
+          "file": "/pdfs/cse-ds/6/big-data-analytics/big-data-analytics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "machine-learning": [
+        {
+          "id": "machine-learning-2024",
+          "title": "Machine Learning PYQ 2024",
+          "file": "/pdfs/cse-ds/6/machine-learning/machine-learning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "r-programming": [
+        {
+          "id": "r-programming-2024",
+          "title": "R Programming PYQ 2024",
+          "file": "/pdfs/cse-ds/6/r-programming/r-programming-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "7": {
+      "data-visualization": [
+        {
+          "id": "data-visualization-2024",
+          "title": "Data Visualization PYQ 2024",
+          "file": "/pdfs/cse-ds/7/data-visualization/data-visualization-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "8": {
+      "capstone-project": [
+        {
+          "id": "capstone-project-2024",
+          "title": "Capstone Project PYQ 2024",
+          "file": "/pdfs/cse-ds/8/capstone-project/capstone-project-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    }
+  },
+  "ECE": {
+    "1": {
+      "engineering-mathematics-i": [
+        {
+          "id": "engineering-mathematics-i-2024",
+          "title": "Engineering Mathematics-I PYQ 2024",
+          "file": "/pdfs/ece/1/engineering-mathematics-i/engineering-mathematics-i-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "programming-for-problem-solving-using-c": [
+        {
+          "id": "programming-for-problem-solving-using-c-2024",
+          "title": "Programming for Problem Solving Using C PYQ 2024",
+          "file": "/pdfs/ece/1/programming-for-problem-solving-using-c/programming-for-problem-solving-using-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-chemistry": [
+        {
+          "id": "engineering-chemistry-2024",
+          "title": "Engineering Chemistry PYQ 2024",
+          "file": "/pdfs/ece/1/engineering-chemistry/engineering-chemistry-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-drawing": [
+        {
+          "id": "engineering-drawing-2024",
+          "title": "Engineering Drawing PYQ 2024",
+          "file": "/pdfs/ece/1/engineering-drawing/engineering-drawing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-mechanics": [
+        {
+          "id": "engineering-mechanics-2024",
+          "title": "Engineering Mechanics PYQ 2024",
+          "file": "/pdfs/ece/1/engineering-mechanics/engineering-mechanics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "environmental-studies": [
+        {
+          "id": "environmental-studies-2024",
+          "title": "Environmental Studies PYQ 2024",
+          "file": "/pdfs/ece/1/environmental-studies/environmental-studies-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "2": {
+      "engineering-mathematics-ii": [
+        {
+          "id": "engineering-mathematics-ii-2024",
+          "title": "Engineering Mathematics-II PYQ 2024",
+          "file": "/pdfs/ece/2/engineering-mathematics-ii/engineering-mathematics-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "data-structures-through-c": [
+        {
+          "id": "data-structures-through-c-2024",
+          "title": "Data Structures Through C PYQ 2024",
+          "file": "/pdfs/ece/2/data-structures-through-c/data-structures-through-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-physics": [
+        {
+          "id": "engineering-physics-2024",
+          "title": "Engineering Physics PYQ 2024",
+          "file": "/pdfs/ece/2/engineering-physics/engineering-physics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "english-for-communication": [
+        {
+          "id": "english-for-communication-2024",
+          "title": "English for Communication PYQ 2024",
+          "file": "/pdfs/ece/2/english-for-communication/english-for-communication-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "basic-electrical-engineering": [
+        {
+          "id": "basic-electrical-engineering-2024",
+          "title": "Basic Electrical Engineering PYQ 2024",
+          "file": "/pdfs/ece/2/basic-electrical-engineering/basic-electrical-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "3": {
+      "engineering-mathematics-iii": [
+        {
+          "id": "engineering-mathematics-iii-2024",
+          "title": "Engineering Mathematics-III PYQ 2024",
+          "file": "/pdfs/ece/3/engineering-mathematics-iii/engineering-mathematics-iii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "signals-and-systems": [
+        {
+          "id": "signals-and-systems-2024",
+          "title": "Signals and Systems PYQ 2024",
+          "file": "/pdfs/ece/3/signals-and-systems/signals-and-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "analog-circuits-i": [
+        {
+          "id": "analog-circuits-i-2024",
+          "title": "Analog Circuits-I PYQ 2024",
+          "file": "/pdfs/ece/3/analog-circuits-i/analog-circuits-i-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "switching-theory-and-logic-design": [
+        {
+          "id": "switching-theory-and-logic-design-2024",
+          "title": "Switching Theory and Logic Design PYQ 2024",
+          "file": "/pdfs/ece/3/switching-theory-and-logic-design/switching-theory-and-logic-design-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "network-analysis": [
+        {
+          "id": "network-analysis-2024",
+          "title": "Network Analysis PYQ 2024",
+          "file": "/pdfs/ece/3/network-analysis/network-analysis-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "4": {
+      "electromagnetic-waves-and-transmission-lines": [
+        {
+          "id": "electromagnetic-waves-and-transmission-lines-2024",
+          "title": "Electromagnetic Waves and Transmission Lines PYQ 2024",
+          "file": "/pdfs/ece/4/electromagnetic-waves-and-transmission-lines/electromagnetic-waves-and-transmission-lines-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "analog-circuits-ii": [
+        {
+          "id": "analog-circuits-ii-2024",
+          "title": "Analog Circuits-II PYQ 2024",
+          "file": "/pdfs/ece/4/analog-circuits-ii/analog-circuits-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "pulse-and-digital-circuits": [
+        {
+          "id": "pulse-and-digital-circuits-2024",
+          "title": "Pulse and Digital Circuits PYQ 2024",
+          "file": "/pdfs/ece/4/pulse-and-digital-circuits/pulse-and-digital-circuits-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "probability-and-random-processes": [
+        {
+          "id": "probability-and-random-processes-2024",
+          "title": "Probability and Random Processes PYQ 2024",
+          "file": "/pdfs/ece/4/probability-and-random-processes/probability-and-random-processes-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "digital-design": [
+        {
+          "id": "digital-design-2024",
+          "title": "Digital Design PYQ 2024",
+          "file": "/pdfs/ece/4/digital-design/digital-design-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "essence-of-indian-traditional-knowledge": [
+        {
+          "id": "essence-of-indian-traditional-knowledge-2024",
+          "title": "Essence of Indian Traditional Knowledge PYQ 2024",
+          "file": "/pdfs/ece/4/essence-of-indian-traditional-knowledge/essence-of-indian-traditional-knowledge-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "5": {
+      "universal-human-values-ii": [
+        {
+          "id": "universal-human-values-ii-2024",
+          "title": "Universal Human Values-II PYQ 2024",
+          "file": "/pdfs/ece/5/universal-human-values-ii/universal-human-values-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "communication-systems": [
+        {
+          "id": "communication-systems-2024",
+          "title": "Communication Systems PYQ 2024",
+          "file": "/pdfs/ece/5/communication-systems/communication-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "antennas-and-wave-propagation": [
+        {
+          "id": "antennas-and-wave-propagation-2024",
+          "title": "Antennas and Wave Propagation PYQ 2024",
+          "file": "/pdfs/ece/5/antennas-and-wave-propagation/antennas-and-wave-propagation-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "linear-integrated-circuits-and-applications": [
+        {
+          "id": "linear-integrated-circuits-and-applications-2024",
+          "title": "Linear Integrated Circuits and Applications PYQ 2024",
+          "file": "/pdfs/ece/5/linear-integrated-circuits-and-applications/linear-integrated-circuits-and-applications-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "microprocessors-and-microcontrollers": [
+        {
+          "id": "microprocessors-and-microcontrollers-2024",
+          "title": "Microprocessors and Microcontrollers PYQ 2024",
+          "file": "/pdfs/ece/5/microprocessors-and-microcontrollers/microprocessors-and-microcontrollers-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "linear-control-systems": [
+        {
+          "id": "linear-control-systems-2024",
+          "title": "Linear Control Systems PYQ 2024",
+          "file": "/pdfs/ece/5/linear-control-systems/linear-control-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "6": {
+      "quantitative-aptitude-and-logical-reasoning": [
+        {
+          "id": "quantitative-aptitude-and-logical-reasoning-2024",
+          "title": "Quantitative Aptitude and Logical Reasoning PYQ 2024",
+          "file": "/pdfs/ece/6/quantitative-aptitude-and-logical-reasoning/quantitative-aptitude-and-logical-reasoning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "digital-signal-processing-and-applications": [
+        {
+          "id": "digital-signal-processing-and-applications-2024",
+          "title": "Digital Signal Processing and Applications PYQ 2024",
+          "file": "/pdfs/ece/6/digital-signal-processing-and-applications/digital-signal-processing-and-applications-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "vlsi-circuits-and-systems": [
+        {
+          "id": "vlsi-circuits-and-systems-2024",
+          "title": "VLSI Circuits and Systems PYQ 2024",
+          "file": "/pdfs/ece/6/vlsi-circuits-and-systems/vlsi-circuits-and-systems-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "embedded-systems-with-arm-processor-and-applications": [
+        {
+          "id": "embedded-systems-with-arm-processor-and-applications-2024",
+          "title": "Embedded Systems with ARM Processor and Applications PYQ 2024",
+          "file": "/pdfs/ece/6/embedded-systems-with-arm-processor-and-applications/embedded-systems-with-arm-processor-and-applications-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "advanced-data-structures": [
+        {
+          "id": "advanced-data-structures-2024",
+          "title": "Advanced Data Structures PYQ 2024",
+          "file": "/pdfs/ece/6/advanced-data-structures/advanced-data-structures-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "7": {
+      "microwave-and-optical-fiber-communication": [
+        {
+          "id": "microwave-and-optical-fiber-communication-2024",
+          "title": "Microwave and Optical Fiber Communication PYQ 2024",
+          "file": "/pdfs/ece/7/microwave-and-optical-fiber-communication/microwave-and-optical-fiber-communication-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "management-economics-and-accountancy": [
+        {
+          "id": "management-economics-and-accountancy-2024",
+          "title": "Management Economics and Accountancy PYQ 2024",
+          "file": "/pdfs/ece/7/management-economics-and-accountancy/management-economics-and-accountancy-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "8": {
+      "capstone-project": [
+        {
+          "id": "capstone-project-2024",
+          "title": "Capstone Project PYQ 2024",
+          "file": "/pdfs/ece/8/capstone-project/capstone-project-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    }
+  },
+  "Civil": {
+    "1": {
+      "engineering-mathematics-i": [
+        {
+          "id": "engineering-mathematics-i-2024",
+          "title": "Engineering Mathematics-I PYQ 2024",
+          "file": "/pdfs/civil/1/engineering-mathematics-i/engineering-mathematics-i-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "programming-for-problem-solving-using-c": [
+        {
+          "id": "programming-for-problem-solving-using-c-2024",
+          "title": "Programming for Problem Solving Using C PYQ 2024",
+          "file": "/pdfs/civil/1/programming-for-problem-solving-using-c/programming-for-problem-solving-using-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-chemistry": [
+        {
+          "id": "engineering-chemistry-2024",
+          "title": "Engineering Chemistry PYQ 2024",
+          "file": "/pdfs/civil/1/engineering-chemistry/engineering-chemistry-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-drawing": [
+        {
+          "id": "engineering-drawing-2024",
+          "title": "Engineering Drawing PYQ 2024",
+          "file": "/pdfs/civil/1/engineering-drawing/engineering-drawing-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-mechanics": [
+        {
+          "id": "engineering-mechanics-2024",
+          "title": "Engineering Mechanics PYQ 2024",
+          "file": "/pdfs/civil/1/engineering-mechanics/engineering-mechanics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "environmental-studies": [
+        {
+          "id": "environmental-studies-2024",
+          "title": "Environmental Studies PYQ 2024",
+          "file": "/pdfs/civil/1/environmental-studies/environmental-studies-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "2": {
+      "engineering-mathematics-ii": [
+        {
+          "id": "engineering-mathematics-ii-2024",
+          "title": "Engineering Mathematics-II PYQ 2024",
+          "file": "/pdfs/civil/2/engineering-mathematics-ii/engineering-mathematics-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "data-structures-through-c": [
+        {
+          "id": "data-structures-through-c-2024",
+          "title": "Data Structures Through C PYQ 2024",
+          "file": "/pdfs/civil/2/data-structures-through-c/data-structures-through-c-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-physics": [
+        {
+          "id": "engineering-physics-2024",
+          "title": "Engineering Physics PYQ 2024",
+          "file": "/pdfs/civil/2/engineering-physics/engineering-physics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "english-for-communication": [
+        {
+          "id": "english-for-communication-2024",
+          "title": "English for Communication PYQ 2024",
+          "file": "/pdfs/civil/2/english-for-communication/english-for-communication-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "basic-electrical-engineering": [
+        {
+          "id": "basic-electrical-engineering-2024",
+          "title": "Basic Electrical Engineering PYQ 2024",
+          "file": "/pdfs/civil/2/basic-electrical-engineering/basic-electrical-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "3": {
+      "engineering-mathematics-iii": [
+        {
+          "id": "engineering-mathematics-iii-2024",
+          "title": "Engineering Mathematics-III PYQ 2024",
+          "file": "/pdfs/civil/3/engineering-mathematics-iii/engineering-mathematics-iii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "fluid-mechanics": [
+        {
+          "id": "fluid-mechanics-2024",
+          "title": "Fluid Mechanics PYQ 2024",
+          "file": "/pdfs/civil/3/fluid-mechanics/fluid-mechanics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "surveying": [
+        {
+          "id": "surveying-2024",
+          "title": "Surveying PYQ 2024",
+          "file": "/pdfs/civil/3/surveying/surveying-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "construction-materials": [
+        {
+          "id": "construction-materials-2024",
+          "title": "Construction Materials PYQ 2024",
+          "file": "/pdfs/civil/3/construction-materials/construction-materials-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "4": {
+      "mechanics-of-materials": [
+        {
+          "id": "mechanics-of-materials-2024",
+          "title": "Mechanics of Materials PYQ 2024",
+          "file": "/pdfs/civil/4/mechanics-of-materials/mechanics-of-materials-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "hydraulics-engineering": [
+        {
+          "id": "hydraulics-engineering-2024",
+          "title": "Hydraulics Engineering PYQ 2024",
+          "file": "/pdfs/civil/4/hydraulics-engineering/hydraulics-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "design-of-reinforced-concrete-structures": [
+        {
+          "id": "design-of-reinforced-concrete-structures-2024",
+          "title": "Design of Reinforced Concrete Structures PYQ 2024",
+          "file": "/pdfs/civil/4/design-of-reinforced-concrete-structures/design-of-reinforced-concrete-structures-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "engineering-geology": [
+        {
+          "id": "engineering-geology-2024",
+          "title": "Engineering Geology PYQ 2024",
+          "file": "/pdfs/civil/4/engineering-geology/engineering-geology-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "essence-of-indian-traditional-knowledge": [
+        {
+          "id": "essence-of-indian-traditional-knowledge-2024",
+          "title": "Essence of Indian Traditional Knowledge PYQ 2024",
+          "file": "/pdfs/civil/4/essence-of-indian-traditional-knowledge/essence-of-indian-traditional-knowledge-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "5": {
+      "universal-human-values-ii": [
+        {
+          "id": "universal-human-values-ii-2024",
+          "title": "Universal Human Values-II PYQ 2024",
+          "file": "/pdfs/civil/5/universal-human-values-ii/universal-human-values-ii-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "structural-analysis": [
+        {
+          "id": "structural-analysis-2024",
+          "title": "Structural Analysis PYQ 2024",
+          "file": "/pdfs/civil/5/structural-analysis/structural-analysis-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "environmental-engineering": [
+        {
+          "id": "environmental-engineering-2024",
+          "title": "Environmental Engineering PYQ 2024",
+          "file": "/pdfs/civil/5/environmental-engineering/environmental-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "soil-mechanics": [
+        {
+          "id": "soil-mechanics-2024",
+          "title": "Soil Mechanics PYQ 2024",
+          "file": "/pdfs/civil/5/soil-mechanics/soil-mechanics-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "design-of-steel-structure": [
+        {
+          "id": "design-of-steel-structure-2024",
+          "title": "Design of Steel Structure PYQ 2024",
+          "file": "/pdfs/civil/5/design-of-steel-structure/design-of-steel-structure-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "6": {
+      "quantitative-aptitude-and-logical-reasoning": [
+        {
+          "id": "quantitative-aptitude-and-logical-reasoning-2024",
+          "title": "Quantitative Aptitude and Logical Reasoning PYQ 2024",
+          "file": "/pdfs/civil/6/quantitative-aptitude-and-logical-reasoning/quantitative-aptitude-and-logical-reasoning-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "advanced-data-structures": [
+        {
+          "id": "advanced-data-structures-2024",
+          "title": "Advanced Data Structures PYQ 2024",
+          "file": "/pdfs/civil/6/advanced-data-structures/advanced-data-structures-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "estimation-and-valuation": [
+        {
+          "id": "estimation-and-valuation-2024",
+          "title": "Estimation and Valuation PYQ 2024",
+          "file": "/pdfs/civil/6/estimation-and-valuation/estimation-and-valuation-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "hydrology-and-water-resources-engineering": [
+        {
+          "id": "hydrology-and-water-resources-engineering-2024",
+          "title": "Hydrology and Water Resources Engineering PYQ 2024",
+          "file": "/pdfs/civil/6/hydrology-and-water-resources-engineering/hydrology-and-water-resources-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "construction-management-and-equipment": [
+        {
+          "id": "construction-management-and-equipment-2024",
+          "title": "Construction Management and Equipment PYQ 2024",
+          "file": "/pdfs/civil/6/construction-management-and-equipment/construction-management-and-equipment-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ],
+      "object-oriented-programming-through-java": [
+        {
+          "id": "object-oriented-programming-through-java-2024",
+          "title": "Object Oriented Programming Through JAVA PYQ 2024",
+          "file": "/pdfs/civil/6/object-oriented-programming-through-java/object-oriented-programming-through-java-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "7": {
+      "highway-engineering": [
+        {
+          "id": "highway-engineering-2024",
+          "title": "Highway Engineering PYQ 2024",
+          "file": "/pdfs/civil/7/highway-engineering/highway-engineering-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    },
+    "8": {
+      "capstone-project": [
+        {
+          "id": "capstone-project-2024",
+          "title": "Capstone Project PYQ 2024",
+          "file": "/pdfs/civil/8/capstone-project/capstone-project-2024.pdf",
+          "year": 2024,
+          "sizeBytes": 672
+        }
+      ]
+    }
+  }
+}

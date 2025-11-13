@@ -1,0 +1,311 @@
+{
+  "CSE(AI&ML)": {
+    "1": [
+      "Engineering Mathematics-I",
+      "Programming for Problem Solving Using C",
+      "Engineering Chemistry",
+      "Engineering Drawing",
+      "Engineering Mechanics",
+      "Environmental Studies"
+    ],
+    "2": [
+      "Engineering Mathematics-II",
+      "Data Structures Through C",
+      "Engineering Physics",
+      "English for Communication",
+      "Basic Electrical Engineering"
+    ],
+    "3": [
+      "Engineering Mathematics-III",
+      "Object Oriented Programming Through JAVA",
+      "Operating Systems",
+      "Computer Organisation and Architecture",
+      "Advanced Data Structures",
+      "Formal Languages and Automata Theory"
+    ],
+    "4": [
+      "Artificial Intelligence",
+      "Database Management Systems",
+      "Python Programming",
+      "Essence of Indian Traditional Knowledge"
+    ],
+    "5": [
+      "Universal Human Values-II",
+      "Internet of Things",
+      "Software Engineering",
+      "Compiler Design",
+      "Machine Learning"
+    ],
+    "6": [
+      "Quantitative Aptitude and Logical Reasoning",
+      "Management, Economics and Accountancy",
+      "Design and Analysis of Algorithms",
+      "Deep Learning",
+      "Computer Vision and Image Processing"
+    ],
+    "7": [
+      "Cloud Computing"
+    ],
+    "8": [
+      "Capstone Project"
+    ]
+  },
+  "CSN": {
+    "1": [
+      "Engineering Mathematics-I",
+      "Programming for Problem Solving Using C",
+      "Engineering Physics",
+      "English for Communication",
+      "Basic Electrical Engineering"
+    ],
+    "2": [
+      "Engineering Mathematics-II",
+      "Data Structures Through C",
+      "Engineering Chemistry",
+      "Engineering Drawing",
+      "Engineering Mechanics",
+      "Environmental Studies"
+    ],
+    "3": [
+      "Engineering Mathematics-III",
+      "Object Oriented Programming Through JAVA",
+      "Operating Systems",
+      "Computer Organisation and Architecture",
+      "Advanced Data Structures",
+      "Digital Electronics",
+      "Essence of Indian Traditional Knowledge"
+    ],
+    "4": [
+      "Theory of Computation",
+      "Database Management Systems",
+      "Computer Networks"
+    ],
+    "5": [
+      "Quantitative Aptitude and Logical Reasoning",
+      "Advanced Computer Networks",
+      "Internet of Things",
+      "Compiler Design",
+      "Machine Learning"
+    ],
+    "6": [
+      "Universal Human Values-II",
+      "Software Engineering",
+      "Cloud Computing",
+      "Cryptography and Network Security"
+    ],
+    "7": [
+      "Management Economics and Accountancy",
+      "Design and Analysis of Algorithms"
+    ],
+    "8": [
+      "Capstone Project"
+    ]
+  },
+  "CSE": {
+    "1": [
+      "Engineering Mathematics-I",
+      "Programming for Problem Solving Using C",
+      "Engineering Physics",
+      "English for Communication",
+      "Basic Electrical Engineering"
+    ],
+    "2": [
+      "Engineering Mathematics-II",
+      "Data Structures Through C",
+      "Engineering Chemistry",
+      "Engineering Drawing",
+      "Engineering Mechanics",
+      "Environmental Studies"
+    ],
+    "3": [
+      "Engineering Mathematics-III",
+      "Object Oriented Programming Through JAVA",
+      "Discrete Mathematics",
+      "Computer Organisation and Architecture",
+      "Advanced Data Structures",
+      "Digital Electronics",
+      "Essence of Indian Traditional Knowledge"
+    ],
+    "4": [
+      "Theory of Computation",
+      "Database Management Systems",
+      "Operating System"
+    ],
+    "5": [
+      "Quantitative Aptitude and Logical Reasoning",
+      "Computer Networks",
+      "Software Engineering",
+      "Compiler Design",
+      "Python Programming"
+    ],
+    "6": [
+      "Universal Human Values-II",
+      "Design and Analysis of Algorithms",
+      "Data Warehousing and Data Mining",
+      "Internet of Things"
+    ],
+    "7": [
+      "Management Economics and Accountancy",
+      "Cloud Computing"
+    ],
+    "8": [
+      "Capstone Project"
+    ]
+  },
+  "CSE(DS)": {
+    "1": [
+      "Engineering Mathematics-I",
+      "Programming for Problem Solving Using C",
+      "Engineering Chemistry",
+      "Engineering Drawing",
+      "Engineering Mechanics",
+      "Environmental Studies"
+    ],
+    "2": [
+      "Engineering Mathematics-II",
+      "Data Structures Through C",
+      "Engineering Physics",
+      "English for Communication",
+      "Basic Electrical Engineering"
+    ],
+    "3": [
+      "Engineering Mathematics-III",
+      "Object Oriented Programming Through JAVA",
+      "Operating Systems",
+      "Computer Organisation and Architecture",
+      "Advanced Data Structures",
+      "Formal Languages and Automata Theory"
+    ],
+    "4": [
+      "Artificial Intelligence",
+      "Database Management Systems",
+      "Python Programming",
+      "Essence of Indian Traditional Knowledge"
+    ],
+    "5": [
+      "Universal Human Values-II",
+      "Design and Analysis Algorithms",
+      "Software Engineering",
+      "Compiler Design",
+      "Data Mining and Data Warehousing"
+    ],
+    "6": [
+      "Quantitative Aptitude and Logical Reasoning",
+      "Management Economics and Accountancy",
+      "Big Data Analytics",
+      "Machine Learning",
+      "R Programming"
+    ],
+    "7": [
+      "Data Visualization"
+    ],
+    "8": [
+      "Capstone Project"
+    ]
+  },
+  "ECE": {
+    "1": [
+      "Engineering Mathematics-I",
+      "Programming for Problem Solving Using C",
+      "Engineering Chemistry",
+      "Engineering Drawing",
+      "Engineering Mechanics",
+      "Environmental Studies"
+    ],
+    "2": [
+      "Engineering Mathematics-II",
+      "Data Structures Through C",
+      "Engineering Physics",
+      "English for Communication",
+      "Basic Electrical Engineering"
+    ],
+    "3": [
+      "Engineering Mathematics-III",
+      "Signals and Systems",
+      "Analog Circuits-I",
+      "Switching Theory and Logic Design",
+      "Network Analysis"
+    ],
+    "4": [
+      "Electromagnetic Waves and Transmission Lines",
+      "Analog Circuits-II",
+      "Pulse and Digital Circuits",
+      "Probability and Random Processes",
+      "Digital Design",
+      "Essence of Indian Traditional Knowledge"
+    ],
+    "5": [
+      "Universal Human Values-II",
+      "Communication Systems",
+      "Antennas and Wave Propagation",
+      "Linear Integrated Circuits and Applications",
+      "Microprocessors and Microcontrollers",
+      "Linear Control Systems"
+    ],
+    "6": [
+      "Quantitative Aptitude and Logical Reasoning",
+      "Digital Signal Processing and Applications",
+      "VLSI Circuits and Systems",
+      "Embedded Systems with ARM Processor and Applications",
+      "Advanced Data Structures"
+    ],
+    "7": [
+      "Microwave and Optical Fiber Communication",
+      "Management Economics and Accountancy"
+    ],
+    "8": [
+      "Capstone Project"
+    ]
+  },
+  "Civil": {
+    "1": [
+      "Engineering Mathematics-I",
+      "Programming for Problem Solving Using C",
+      "Engineering Chemistry",
+      "Engineering Drawing",
+      "Engineering Mechanics",
+      "Environmental Studies"
+    ],
+    "2": [
+      "Engineering Mathematics-II",
+      "Data Structures Through C",
+      "Engineering Physics",
+      "English for Communication",
+      "Basic Electrical Engineering"
+    ],
+    "3": [
+      "Engineering Mathematics-III",
+      "Fluid Mechanics",
+      "Surveying",
+      "Construction Materials"
+    ],
+    "4": [
+      "Mechanics of Materials",
+      "Hydraulics Engineering",
+      "Design of Reinforced Concrete Structures",
+      "Engineering Geology",
+      "Essence of Indian Traditional Knowledge"
+    ],
+    "5": [
+      "Universal Human Values-II",
+      "Structural Analysis",
+      "Environmental Engineering",
+      "Soil Mechanics",
+      "Design of Steel Structure"
+    ],
+    "6": [
+      "Quantitative Aptitude and Logical Reasoning",
+      "Advanced Data Structures",
+      "Estimation and Valuation",
+      "Hydrology and Water Resources Engineering",
+      "Construction Management and Equipment",
+      "Object Oriented Programming Through JAVA"
+    ],
+    "7": [
+      "Highway Engineering"
+    ],
+    "8": [
+      "Capstone Project"
+    ]
+  }
+}

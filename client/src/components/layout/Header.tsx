@@ -5,11 +5,12 @@ import { Search, Bell, LogOut, Sparkles, MoonStar, Sun } from 'lucide-react';
 import toast from 'react-hot-toast';
 import Button from '../ui/Button';
 import { useAuth } from '../../context/AuthContext';
+import { useTheme } from '../../context/ThemeContext';
 
 const Header = () => {
   const { user, logout } = useAuth();
+  const { isDark, toggleTheme } = useTheme();
   const [searchValue, setSearchValue] = useState('');
-  const [isDark, setIsDark] = useState(true);
   const [isLargeFont, setIsLargeFont] = useState(false);
   const navigate = useNavigate();
   const location = useLocation();
@@ -28,10 +29,6 @@ const Header = () => {
       classList.remove('text-lg');
     }
   }, [isLargeFont]);
-
-  useEffect(() => {
-    document.documentElement.dataset.theme = isDark ? 'dark' : 'light';
-  }, [isDark]);
 
   const handleSearch = (event: React.FormEvent<HTMLFormElement>) => {
     event.preventDefault();
@@ -95,7 +92,7 @@ const Header = () => {
 
       <div className="flex flex-1 items-center justify-end gap-3">
         <button
-          onClick={() => setIsDark((prev) => !prev)}
+          onClick={toggleTheme}
           className="flex h-10 w-10 items-center justify-center rounded-full border border-white/10 bg-white/5 text-slate-200 transition hover:bg-white/10"
           aria-label="Toggle theme"
         >
